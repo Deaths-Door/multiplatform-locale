@@ -182,6 +182,11 @@ enum class Language(
     officialCountries = listOf(Country.MALAYSIA, Country.BRUNEI, Country.INDONESIA, Country.SINGAPORE),
     otherCountries = emptyList(),
   ),
+  MACEDONIAN(
+    code = "mk",
+    officialCountries = listOf(Country.NORTH_MACEDONIA),
+    otherCountries = listOf(Country.ALBANIA, Country.BOSNIA_AND_HERZEGOVINA, Country.ROMANIA, Country.SERBIA),
+  ),
   MALAYALAM(
     code = "ml",
     officialCountries = listOf(Country.INDIA),

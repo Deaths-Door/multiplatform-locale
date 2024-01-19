@@ -115,6 +115,7 @@ class LocaleTest {
         GooglePlayStoreLocale.lv,
         GooglePlayStoreLocale.lt,
         GooglePlayStoreLocale.ms_MY,
+        GooglePlayStoreLocale.mk_MK,
         GooglePlayStoreLocale.ml_IN,
         GooglePlayStoreLocale.mr_IN,
         GooglePlayStoreLocale.no_NO,
